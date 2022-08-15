@@ -1,0 +1,36 @@
+<html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">/* Style for Title and description */
+
+.at-action-menu {
+  visibility: hidden;
+  display: none;
+}
+
+.at-action-menu-icon {
+  visibility: hidden;
+  display: none;
+}
+
+.at-action-menu-trigger {
+  visibility: hidden;
+  display: none;
+}
+
+.at-svg-icon {
+  visibility: hidden;
+  display: none;
+}
+
+.at-action-menu-dropdown {
+  visibility: hidden;
+  display: none;
+}
+
+.at-action-menu-button {
+  visibility: hidden;
+  display: none;
+}
+
+.at-action-menu-item {
+  visibility: hidden;
+  display: none;
+}
